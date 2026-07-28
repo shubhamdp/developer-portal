@@ -32,6 +32,7 @@ The following articles talk about Matter
 - Espressif Matter Series #8: [Matter: Distributed Compliance Ledger](/blog/matter-distributed-compliance-ledger-dcl)
 - Espressif Matter Series #9: [Accelerating Matter Device Manufacturing](/blog/accelerating-matter-device-manufacturing)
 - Espressif Matter Series #10: [Matter and Certificate Revocation](/blog/matter-and-certificate-revocation)
+- Espressif Matter Series #11: [Matter: Improvements to Espressif DAC Provisioning Service](/blog/matter-improvements-to-espressif-dac-provisioning-service)
 
 ## Espressif’s Matter Demos
 
